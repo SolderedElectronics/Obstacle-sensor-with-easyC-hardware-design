@@ -1,1 +1,69 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/Obstacle_sensor_easyC.kicad_pcb
+	modified:   CAD/V1.0.0/Obstacle_sensor_easyC.kicad_pro
+	modified:   CAD/V1.0.0/Obstacle_sensor_easyC.kicad_sch
+	modified:   CAD/V1.1.1/Obstacle_sensor_easyC.kicad_pcb
+	modified:   CAD/V1.1.1/Obstacle_sensor_easyC.kicad_pro
+	modified:   CAD/V1.1.1/Obstacle_sensor_easyC.kicad_sch
+	modified:   CAD/V1.1.1/PANEL/Obstacle_sensor_easyC.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/Obstacle_sensor_easyC.kicad_pro
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/Obstacle_sensor_easyC_BOM.csv
+	modified:   OUTPUTS/V1.0.0/Obstacle_sensor_easyC_gerber.zip
+	modified:   OUTPUTS/V1.0.0/Obstacle_sensor_easyC_ibom.html
+	modified:   OUTPUTS/V1.1.1/Obstacle sensor TRCT5000L with easyC.jpg
+	modified:   OUTPUTS/V1.1.1/Obstacle sensor with easyC_ibom.html
+	modified:   OUTPUTS/V1.1.1/Obstacle_sensor_TCRT5000L_easyC.pdf
+	modified:   OUTPUTS/V1.1.1/Obstacle_sensor_TCRT5000L_easyC_3D.step
+	modified:   OUTPUTS/V1.1.1/Obstacle_sensor_TCRT5000L_easyC_BOM.csv
+	modified:   OUTPUTS/V1.1.1/Obstacle_sensor_easyC_76.2x100.6_8.zip
+	modified:   README.md
+	new file:   log.txt
+
+[main 07a6da2] Updating open source files.
+ 27 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/Obstacle_sensor_easyC.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/Obstacle_sensor_easyC.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/Obstacle_sensor_easyC.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/Obstacle_sensor_easyC.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/Obstacle_sensor_easyC.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/Obstacle_sensor_easyC.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Obstacle_sensor_easyC.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Obstacle_sensor_easyC.kicad_pro
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Obstacle_sensor_easyC_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Obstacle_sensor_easyC_gerber.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Obstacle_sensor_easyC_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Obstacle sensor TRCT5000L with easyC.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Obstacle sensor with easyC_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Obstacle_sensor_TCRT5000L_easyC.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Obstacle_sensor_TCRT5000L_easyC_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Obstacle_sensor_TCRT5000L_easyC_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Obstacle_sensor_easyC_76.2x100.6_8.zip
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Obstacle-sensor-with-easyC-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board/OUTPUTS/V1.1.1: all files are present, commiting...
+Load-cell-ampfilier-HX711-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board to Load-cell-ampfilier-HX711-board-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor with easyC/.git/
